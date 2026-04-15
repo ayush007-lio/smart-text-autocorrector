@@ -42,20 +42,6 @@ This project uses a **dictionary-based Natural Language Processing technique** t
 
 ---
 
-## 📂 Project Structure
-Smart-Text-Autocorrector/
-│
-├── app.py
-├── data/
-│ └── big.txt
-├── src/
-│ └── autocorrect.py
-├── templates/
-│ └── index.html
-├── static/
-│ └── style.css
-
----
 
 ## ⚡ Installation Guide
 
